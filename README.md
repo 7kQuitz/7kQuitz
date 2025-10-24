@@ -1,1 +1,1 @@
-<a href='https://blinkies.cafe' target='_blank'><img src='https://blinkies.cafe/b/display/blinkiesCafe-badge.gif' alt='blinkies.cafe | make your own blinkies!'></a>
+https://blinkies.cafe/b/display/0114-tbh.gif
