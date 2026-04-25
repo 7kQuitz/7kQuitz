@@ -3,4 +3,6 @@
 </p>
 
 
-Hi am Noah C :
+<p align="center">
+  Hi am Noah C:
+</p>
