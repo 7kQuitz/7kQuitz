@@ -1,8 +1,1 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9nN21lZXc2aHRucGxicHd3Z2phaTVvc21hY2d3aHN1Ymw4M2FnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h7oJ1Jd88LHosr6WJg/giphy.gif" alt="demo gif" width="400"/>
-</p>
-
-
-<p align="center">
-  Hi am Noah C:
-</p>
+<img width="2080" height="2807" alt="image" src="https://github.com/user-attachments/assets/2dd5db79-4335-424f-b2a8-a34f8e33e946" />
