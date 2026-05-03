@@ -3,7 +3,8 @@
 
 <p align="center">
 <br><br>
-<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/c856c712-3983-4019-81c7-89d1700eb541" />
+<img width="300" height="100" alt="24cc358448a2ac5261541bc1264e531d-removebg-preview__fliter--red-sunset__channel--all__mode--normal__fliter--red-sunset__channel--all__mode--normal-removebg-preview" src="https://github.com/user-attachments/assets/12a0b66a-a8a4-4397-a67c-12cf30da59bc" />
+
 
 
 
@@ -13,7 +14,7 @@
 <p align="center">
 ˚.⋆ He/Him ⸝⸝══════⸝⸝ Transmasc ⋆.˚
 
-<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/c856c712-3983-4019-81c7-89d1700eb541" />
+<img width="300" height="100" alt="24cc358448a2ac5261541bc1264e531d-removebg-preview__fliter--red-sunset__channel--all__mode--normal__fliter--red-sunset__channel--all__mode--normal-removebg-preview" src="https://github.com/user-attachments/assets/12a0b66a-a8a4-4397-a67c-12cf30da59bc" />
 
 
 <br><br>
