@@ -23,7 +23,7 @@
 <br><br>
 
 <p align="center">
-<img width="300" height="100" alt="24cc358448a2ac5261541bc1264e531d-removebg-preview__fliter--red-sunset__channel--all__mode--normal__fliter--red-sunset__channel--all__mode--normal-removebg-preview (1)" src="https://github.com/user-attachments/assets/76b9cf17-8ff7-4c5a-8da6-9c6af33f43f3" />
+<img width="300" height="900" alt="24cc358448a2ac5261541bc1264e531d-removebg-preview__fliter--red-sunset__channel--all__mode--normal__fliter--red-sunset__channel--all__mode--normal-removebg-preview (1)" src="https://github.com/user-attachments/assets/76b9cf17-8ff7-4c5a-8da6-9c6af33f43f3" />
 
 
 <br><br>
