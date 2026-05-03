@@ -7,5 +7,9 @@
 <p align="center">
 ˚.⋆ He/Him ⸝⸝══════⸝⸝ Transmasc ⋆.˚
 
+
+
+
+                      
 <p align="center">
 <img width="500" height="200" alt="6eeafbe47f5ccc1f3b5e10f082e5d3701-ezgif com-resize" src="https://github.com/user-attachments/assets/16d16447-073d-45ca-b570-054def7455ef" />
