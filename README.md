@@ -1,4 +1,3 @@
-![Light Mode Image](image-light.png#gh-light-mode-only)
 ![Dark Mode Image](image-dark.png#gh-dark-mode-only)
 
 <p align="center">
