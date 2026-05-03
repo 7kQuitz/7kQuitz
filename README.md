@@ -2,7 +2,8 @@
 <img width="500" height="198" alt="0f34a379276f260306fa74de509475ee1-ezgif com-resize" src="https://github.com/user-attachments/assets/61db2ec2-4335-48ed-9ed5-c954f35a4915" />
 
 <br><br>
-<img width="1199" height="172" alt="image" src="https://github.com/user-attachments/assets/bad21c90-db6c-4e26-b612-9a68231b4a91" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c856c712-3983-4019-81c7-89d1700eb541" />
+
 
 
 <p align="center">
@@ -11,8 +12,7 @@
 <p align="center">
 ˚.⋆ He/Him ⸝⸝══════⸝⸝ Transmasc ⋆.˚
 
-<img width="1199" height="172" alt="image" src="https://github.com/user-attachments/assets/01dfe286-5d9c-4135-8bb9-34fa74d42e0c" />
-
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c856c712-3983-4019-81c7-89d1700eb541" />
 
 
 <br><br>
