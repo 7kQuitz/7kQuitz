@@ -1,2 +1,2 @@
 <p align="center">
-<img width="500" height="245" alt="0f34a379276f260306fa74de509475ee (1)" src="https://github.com/user-attachments/assets/0df98bfd-577b-46e7-b512-a6c7ec3ac148" />
+<img width="500" height="245" alt="0f34a379276f260306fa74de509475ee1-ezgif com-loop-count" src="https://github.com/user-attachments/assets/afd34e60-49eb-4393-ae62-0e26ddd2d181" />
