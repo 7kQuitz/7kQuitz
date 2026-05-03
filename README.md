@@ -5,5 +5,4 @@
 
 <p align="Right">
 I mostly just chill or talk to friends on Pt
-
-  Dont be shy to INT !
+   Dont be shy to INT !
