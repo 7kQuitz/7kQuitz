@@ -35,7 +35,6 @@
 <img width="390" height="198" alt="6eeafbe47f5ccc1f3b5e10f082e5d3701-ezgif com-resize" src="https://github.com/user-attachments/assets/16d16447-073d-45ca-b570-054def7455ef" />
 
 <p align="center">
-https://external-media.spacehey.net/media/sMw5R0sir9v8Iuq9WE52SEV5Qdb7rebVvYO5EEXtJX_A=/https://64.media.tumblr.com/b5ded06d1927a4b6ea778c60dc9447db/ec3282ae0b7856db-6c/s250x400/b59515e8cbf675ba6be5ee9b2f5d5d3f3bdc90e6.gifv
-
+[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aaa5e981-3eb7-428a-bb6c-779358062326/dirf61c-d3999b08-a9c9-4729-8858-0be0d4b90e27.](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aaa5e981-3eb7-428a-bb6c-779358062326/dirf61c-d3999b08-a9c9-4729-8858-0be0d4b90e27.gif
 
 
