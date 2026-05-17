@@ -35,6 +35,6 @@
 <img width="390" height="198" alt="6eeafbe47f5ccc1f3b5e10f082e5d3701-ezgif com-resize" src="https://github.com/user-attachments/assets/16d16447-073d-45ca-b570-054def7455ef" />
 
 <p align="center">
-<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/f80145a3-09ef-4948-81f1-2faa3ae826c1" />
+https://external-media.spacehey.net/media/sMw5R0sir9v8Iuq9WE52SEV5Qdb7rebVvYO5EEXtJX_A=/https://64.media.tumblr.com/b5ded06d1927a4b6ea778c60dc9447db/ec3282ae0b7856db-6c/s250x400/b59515e8cbf675ba6be5ee9b2f5d5d3f3bdc90e6.gif
 
 
