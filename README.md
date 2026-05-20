@@ -15,7 +15,7 @@
 
 
 <p align="center">
-˚.⋆ 6Teen ⸝⸝══════ INT freely! ══════⸝⸝ Be kind to me! ⋆.˚
+˚.⋆ 6Teen ⸝⸝══════ INT freely! (Unless over 20 years of age) ══════⸝⸝ Be kind to me! ⋆.˚
 
 <p align="center">
 ˚.⋆ He/Him ⸝⸝══════⸝⸝ Transmasc ⋆.˚
