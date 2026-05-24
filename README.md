@@ -3,9 +3,4 @@
 
 
 <p align="center">
-[![Typing SVG](https://demolab.com)](https://git.io)
-Im trying
-Im trying to sleep
-But I can't when you all have
-guns for hands!
 
