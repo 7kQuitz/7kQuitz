@@ -3,4 +3,4 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1999&color=903838&width=435&lines=Im+trying;Im+trying+to+sleep;but+I+cant+when+you+all+have;guns+for+hands" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1999&color=903838&width=435&lines=Im+trying;Im+trying+to+sleep;but+I+cant+when+you+all+have;guns+for+hands" alt="Typing SVG" /></a>
