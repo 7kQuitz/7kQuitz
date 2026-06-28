@@ -1,9 +1,8 @@
-<p align="center">
-  ‿̩͙⊱༒︎༻♱༺༒︎⊰‿̩͙
-  
+
 <p align="center">
   <picture>
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/01d9abfc-b944-4fbe-b958-51e0b111c0ce" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b262859f-847f-41e3-bd76-aaaf4670818c" />
+
 
 <p align="center">
 <picture>
