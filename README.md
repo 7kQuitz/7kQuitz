@@ -1,6 +1,8 @@
 <p align="center">
 <picture>
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/13e66f65-71ee-488d-9278-03dac77b00fc" />
+<img width="2000" height="1450" alt="New Project (11)" src="https://github.com/user-attachments/assets/7409c77a-31fc-4f6a-95a2-400847eb88f9" />
+
+
 
   <p align="center">
 WIP
