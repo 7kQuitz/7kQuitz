@@ -1,6 +1,6 @@
 <p align>
-<picture></picture>
-<img width="1025" height="120" alt="IMG-0367 (2)" src="https://github.com/user-attachments/assets/349688ac-23f0-478f-a5a7-8db6e159ed36" />
+<picture>
+<img width="900" height="200" alt="IMG-1057 (1)" src="https://github.com/user-attachments/assets/93617d68-dd75-4456-88d5-bd9263336194" />
 
 
 
