@@ -5,7 +5,7 @@
   &emsp;
   
   <p align="center">
-<picture>  <img width="500" height="15" alt="IMG_9395 (1)" src="https://github.com/user-attachments/assets/8790357f-c822-46ef-8464-9480ec9b6674" /> <p align="center"> <picture> <img width="647" height="375" alt="1173b35281926d22acdf3b51f653328b (1)" src="https://github.com/user-attachments/assets/81d66e7b-094c-406e-a8b9-361d8e6eb642" />
+<picture>  <img width="500" height="15" alt="IMG_9395 (1)" src="https://github.com/user-attachments/assets/8790357f-c822-46ef-8464-9480ec9b6674" /> <p align="center"> 
 
 
 
