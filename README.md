@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#about-me">="<img width="1080" height="1080" alt="New Project (13)" src="https://github.com/user-attachments/assets/2e55f849-a43e-46ee-9d83-cce190d8075a" />
+  <a href="#about-me"><img width="1080" height="1080" alt="New Project (13)" src="https://github.com/user-attachments/assets/2e55f849-a43e-46ee-9d83-cce190d8075a" />
 " alt="About Me" height="150" /></a>
   <!-- Drag and drop your next button image right after this comment to line them up -->
 </p>
