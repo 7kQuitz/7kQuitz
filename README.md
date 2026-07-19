@@ -7,7 +7,7 @@
   <picture>
 <img width="1200" height="240" alt="IMG_1126 (2)" src="https://github.com/user-attachments/assets/9e8bcf8c-a435-467c-8e0f-f4486954e493" />
 
-##.
+## 
  <picture>
  <img width="500" height="200" alt="New Project (19)" src="https://github.com/user-attachments/assets/a5c5c089-7a1c-4666-a90d-926dff953a55" />
 
