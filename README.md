@@ -9,6 +9,7 @@
 ## About Me
 Your introduction text goes here...
 
+<p align="center">
 <img width="531" height="20" alt="IMG_8364 (2)" src="https://github.com/user-attachments/assets/e2f69279-6caa-4bdc-b2f4-6dd677308b4f" />
 <picture>
 <img width="575" height="73" alt="IMG_9497" src="https://github.com/user-attachments/assets/76eb816f-c096-4954-beb5-feda723680e2" />
