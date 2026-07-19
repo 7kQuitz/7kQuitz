@@ -8,6 +8,7 @@
 
 
 <p align="center">
+  <picture></picture>
   <img width="1200" height="240" alt="IMG_1126 (1)" src="https://github.com/user-attachments/assets/8dfd21b3-78bf-48ce-b351-520be32e6d94" />
 
 ## About Me
