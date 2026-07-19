@@ -11,7 +11,7 @@
 <img width="1200" height="240" alt="IMG_1126 (2)" src="https://github.com/user-attachments/assets/9e8bcf8c-a435-467c-8e0f-f4486954e493" />
 
 <p align="center"> 
-<img width="1640" height="664" alt="New Project (19)" src="https://github.com/user-attachments/assets/0e00a51e-d584-40b7-99a4-9a6401ddf769" alt=About me />
+<img width="1640" height="664" alt="New Project (19)" src="https://github.com/user-attachments/assets/0e00a51e-d584-40b7-99a4-9a6401ddf769" alt=About Me />
 
 Your introduction text goes here...
 
