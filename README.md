@@ -26,5 +26,8 @@ About Me
 DNI
 
 
+<p align="center">
+<img width="10031" height="480" alt="IMG_8364 (2)" src="https://github.com/user-attachments/assets/e2f69279-6caa-4bdc-b2f4-6dd677308b4f" />
+<picture>
 
 
