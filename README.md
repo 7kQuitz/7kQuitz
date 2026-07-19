@@ -12,8 +12,8 @@
 
 
 <h1 align="center">
-Hi
-Your introduction text goes here...
+
+Hello
 
 
 <p align="center">
