@@ -2,8 +2,6 @@
 <a href="# ">
 <img src="https://github.com/user-attachments/assets/25a2e74f-37e3-4d96-be51-12c28e9ef0ec" />
 </a>
-
-  <!-- Drag and drop your next button image right after this comment to line them up -->
 </p>
 
 
