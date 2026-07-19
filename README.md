@@ -10,8 +10,7 @@
   <picture>
 <img width="1200" height="240" alt="IMG_1126 (2)" src="https://github.com/user-attachments/assets/9e8bcf8c-a435-467c-8e0f-f4486954e493" />
 
-<p align="center">
-  
+<p align="center"> 
 ## About Me
 Your introduction text goes here...
 
