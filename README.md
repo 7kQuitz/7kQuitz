@@ -1,8 +1,7 @@
 
 <a href="#bro">
-<img width="1080" height="1080" alt="New Project (13)" src="https://github.com/user-attachments/assets/2c10fffe-0e5c-45e8-b21d-896205afcbdc" />
+<img alt="New Project (13)" src="https://github.com/user-attachments/assets/2c10fffe-0e5c-45e8-b21d-896205afcbdc" width="1080" height="1080"/>
 </a>
-</p>
 
 
 <p align="center">
