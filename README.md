@@ -9,7 +9,8 @@
 
 <p align="center">
   <picture>
-  <img width="1200" height="240" alt="IMG_1126 (1)" src="https://github.com/user-attachments/assets/8dfd21b3-78bf-48ce-b351-520be32e6d94" />
+<img width="1200" height="240" alt="IMG_1126 (2)" src="https://github.com/user-attachments/assets/9e8bcf8c-a435-467c-8e0f-f4486954e493" />
+
 
 ## About Me
 Your introduction text goes here...
