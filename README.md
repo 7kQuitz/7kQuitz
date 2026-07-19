@@ -8,6 +8,7 @@
 
 ## About Me
 Your introduction text goes here...
+<img width="531" height="20" alt="IMG_8364 (1)" src="https://github.com/user-attachments/assets/10f787b2-4178-4ee6-9226-e21e3cb0aca0" />
 
 ## DNI
 ok
