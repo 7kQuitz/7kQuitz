@@ -1,10 +1,11 @@
-<p align="center">
-  <picture>
-  <a href="#About-Me"><img width="200" height="200" src="https://github.com/user-attachments/assets/2e55f849-a43e-46ee-9d83-cce190d8075a" />
-      <a href="#DNI"><img width="200" height="200" src="https://github.com/user-attachments/assets/08e0d931-5a04-4d5d-bf3f-772c132f8bda" />
-  <!-- Drag and drop your next button image right after this comment to line them up -->
-</p>
 
+<p 
+  align="center">
+  <picture>
+<a href="#About-Me"><img width="200" height="200" src="https://github.com/user-attachments/assets/2e55f849-a43e-46ee-9d83-cce190d8075a" />
+<a href="#DNI"><img width="200" height="200" src="https://github.com/user-attachments/assets/08e0d931-5a04-4d5d-bf3f-772c132f8bda" />
+<a href="#INT"><img width="200" height="200" src="https://github.com/user-attachments/assets/5e6856bd-e21b-492d-ab3d-ac05d96d5613" />
+</p>
 
 <p align="center">
   <picture>
@@ -31,5 +32,9 @@ DNI
 <p align="center">
 <img width="10031" height="480" alt="IMG_8364 (2)" src="https://github.com/user-attachments/assets/e2f69279-6caa-4bdc-b2f4-6dd677308b4f" />
 <picture>
+
+<h1 align="center">
+
+INT
 
 
