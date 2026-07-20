@@ -5,6 +5,7 @@
 <a href="#About-Me"><img width="200" height="200" src="https://github.com/user-attachments/assets/2e55f849-a43e-46ee-9d83-cce190d8075a" />
 <a href="#DNI"><img width="200" height="200" src="https://github.com/user-attachments/assets/08e0d931-5a04-4d5d-bf3f-772c132f8bda" />
 <a href="#INT"><img width="200" height="200" src="https://github.com/user-attachments/assets/5e6856bd-e21b-492d-ab3d-ac05d96d5613" />
+  <a href="#Other"><img width="1080" height="1080" alt="New Project (16)" src="https://github.com/user-attachments/assets/4e0705fb-7120-42a3-9a7d-6d71bff1ad4d" />
 </p>
 
 <p align="center">
@@ -37,4 +38,13 @@ DNI
 
 INT
 
+ &nbsp;
+
+<p align="center">
+<img width="10031" height="480" alt="IMG_8364 (2)" src="https://github.com/user-attachments/assets/e2f69279-6caa-4bdc-b2f4-6dd677308b4f" />
+<picture>
+
+<h1 align="center">
+
+Other
 
