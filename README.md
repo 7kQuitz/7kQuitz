@@ -4,4 +4,6 @@
 
 
 <p align="center">
-Hi im Noah, or you can call me vulture. Either is fine!
+  <picture>
+<img width="500" height="200" alt="New Project (30)" src="https://github.com/user-attachments/assets/25e7e9a9-3c10-472c-949b-7cba8f5d7476" />
+
