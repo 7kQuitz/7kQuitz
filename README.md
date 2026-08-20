@@ -1,6 +1,7 @@
 <p align="center">
 <picture>
-<img width="600" height="500" alt="github" src="https://github.com/user-attachments/assets/e1016f72-45b0-4621-a2c6-06275bc87d0f" />
+<img width="700" height="200" alt="New Project (39)" src="https://github.com/user-attachments/assets/8387268c-c9a7-4984-98dd-44e52d3058a5" />
+
 
 
 
